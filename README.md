@@ -6,7 +6,7 @@ The Amanda Eats ATX blog is a portfolio blog app that shows off my ability to cr
 
 It uses the following:
 <br>
-1. [React](http://facebook.github.io/react/) for UI views<br>
+1. [React Native](https://facebook.github.io/react-native/) for UI views<br>
 2. [Express](http://expressjs.com/) for server side rendering<br>
 3. [React Router](https://github.com/rackt/react-router) for routing<br>
 
