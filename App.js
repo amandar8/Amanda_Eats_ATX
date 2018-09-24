@@ -34,7 +34,7 @@ export default createStackNavigator({
     }
   }
 }, {
-  initialRouteName: 'NewBlog'
+  // initialRouteName: 'NewBlog'
 });
 
 
